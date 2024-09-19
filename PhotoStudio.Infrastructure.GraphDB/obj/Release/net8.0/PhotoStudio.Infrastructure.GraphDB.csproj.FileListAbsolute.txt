@@ -1,0 +1,17 @@
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Infrastructure.GraphDB\bin\Release\net8.0\PhotoStudio.Infrastructure.GraphDB.deps.json
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Infrastructure.GraphDB\bin\Release\net8.0\PhotoStudio.Infrastructure.GraphDB.runtimeconfig.json
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Infrastructure.GraphDB\bin\Release\net8.0\PhotoStudio.Infrastructure.GraphDB.dll
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Infrastructure.GraphDB\bin\Release\net8.0\PhotoStudio.Infrastructure.GraphDB.pdb
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Infrastructure.GraphDB\bin\Release\net8.0\PhotoStudio.Domain.dll
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Infrastructure.GraphDB\bin\Release\net8.0\PhotoStudio.Domain.pdb
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Infrastructure.GraphDB\obj\Release\net8.0\PhotoStudio.Infrastructure.GraphDB.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Infrastructure.GraphDB\obj\Release\net8.0\PhotoStudio.Infrastructure.GraphDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Infrastructure.GraphDB\obj\Release\net8.0\PhotoStudio.Infrastructure.GraphDB.AssemblyInfoInputs.cache
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Infrastructure.GraphDB\obj\Release\net8.0\PhotoStudio.Infrastructure.GraphDB.AssemblyInfo.cs
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Infrastructure.GraphDB\obj\Release\net8.0\PhotoStudio.Infrastructure.GraphDB.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Infrastructure.GraphDB\obj\Release\net8.0\PhotoStu.F53A02BB.Up2Date
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Infrastructure.GraphDB\obj\Release\net8.0\PhotoStudio.Infrastructure.GraphDB.dll
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Infrastructure.GraphDB\obj\Release\net8.0\refint\PhotoStudio.Infrastructure.GraphDB.dll
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Infrastructure.GraphDB\obj\Release\net8.0\PhotoStudio.Infrastructure.GraphDB.pdb
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Infrastructure.GraphDB\obj\Release\net8.0\PhotoStudio.Infrastructure.GraphDB.genruntimeconfig.cache
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Infrastructure.GraphDB\obj\Release\net8.0\ref\PhotoStudio.Infrastructure.GraphDB.dll

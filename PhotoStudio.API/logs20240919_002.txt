@@ -1,0 +1,5 @@
+2024-09-19 16:24:56.207 +02:00 [INF] Aplikacija se pokreće
+2024-09-19 16:31:38.257 +02:00 [INF] Aplikacija se pokreće
+2024-09-19 16:35:43.903 +02:00 [INF] Aplikacija se pokreće
+2024-09-19 16:36:09.392 +02:00 [INF] Aplikacija se pokreće
+2024-09-19 16:36:59.745 +02:00 [INF] Aplikacija se pokreće

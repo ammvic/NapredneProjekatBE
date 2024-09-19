@@ -1,0 +1,17 @@
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Infrastructure\bin\Release\net8.0\PhotoStudio.Infrastructure.deps.json
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Infrastructure\bin\Release\net8.0\PhotoStudio.Infrastructure.runtimeconfig.json
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Infrastructure\bin\Release\net8.0\PhotoStudio.Infrastructure.dll
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Infrastructure\bin\Release\net8.0\PhotoStudio.Infrastructure.pdb
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Infrastructure\bin\Release\net8.0\PhotoStudio.Domain.dll
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Infrastructure\bin\Release\net8.0\PhotoStudio.Domain.pdb
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Infrastructure\obj\Release\net8.0\PhotoStudio.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Infrastructure\obj\Release\net8.0\PhotoStudio.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Infrastructure\obj\Release\net8.0\PhotoStudio.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Infrastructure\obj\Release\net8.0\PhotoStudio.Infrastructure.AssemblyInfo.cs
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Infrastructure\obj\Release\net8.0\PhotoStudio.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Infrastructure\obj\Release\net8.0\PhotoStu.F9B4513E.Up2Date
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Infrastructure\obj\Release\net8.0\PhotoStudio.Infrastructure.dll
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Infrastructure\obj\Release\net8.0\refint\PhotoStudio.Infrastructure.dll
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Infrastructure\obj\Release\net8.0\PhotoStudio.Infrastructure.pdb
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Infrastructure\obj\Release\net8.0\PhotoStudio.Infrastructure.genruntimeconfig.cache
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Infrastructure\obj\Release\net8.0\ref\PhotoStudio.Infrastructure.dll

@@ -1,0 +1,2 @@
+2024-07-21 16:44:42.255 +02:00 [INF] Aplikacija se pokreće
+2024-07-21 16:44:59.573 +02:00 [INF] Aplikacija se pokreće

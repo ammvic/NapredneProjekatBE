@@ -1,0 +1,1 @@
+2024-09-03 13:56:34.188 +02:00 [INF] Aplikacija se pokreće

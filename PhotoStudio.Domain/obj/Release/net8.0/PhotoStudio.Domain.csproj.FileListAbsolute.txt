@@ -1,0 +1,14 @@
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Domain\bin\Release\net8.0\PhotoStudio.Domain.deps.json
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Domain\bin\Release\net8.0\PhotoStudio.Domain.runtimeconfig.json
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Domain\bin\Release\net8.0\PhotoStudio.Domain.dll
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Domain\bin\Release\net8.0\PhotoStudio.Domain.pdb
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Domain\obj\Release\net8.0\PhotoStudio.Domain.csproj.AssemblyReference.cache
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Domain\obj\Release\net8.0\PhotoStudio.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Domain\obj\Release\net8.0\PhotoStudio.Domain.AssemblyInfoInputs.cache
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Domain\obj\Release\net8.0\PhotoStudio.Domain.AssemblyInfo.cs
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Domain\obj\Release\net8.0\PhotoStudio.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Domain\obj\Release\net8.0\PhotoStudio.Domain.dll
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Domain\obj\Release\net8.0\refint\PhotoStudio.Domain.dll
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Domain\obj\Release\net8.0\PhotoStudio.Domain.pdb
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Domain\obj\Release\net8.0\PhotoStudio.Domain.genruntimeconfig.cache
+C:\Users\Laptop\Desktop\ProjekatNBP\PhotoStudio.Domain\obj\Release\net8.0\ref\PhotoStudio.Domain.dll

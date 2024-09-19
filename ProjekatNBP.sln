@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhotoStudio.Application", "PhotoStudio.Application\PhotoStudio.Application.csproj", "{DC6EF9D3-F3E8-40FB-9FAB-1A92EE7A5FDD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhotoStudio.Infrastructure", "PhotoStudio.Infrastructure\PhotoStudio.Infrastructure.csproj", "{45450A3E-3FA1-4A46-A211-C7E30C44B701}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhotoStudio.Infrastructure.GraphDB", "PhotoStudio.Infrastructure.GraphDB\PhotoStudio.Infrastructure.GraphDB.csproj", "{59AB3549-E421-4FD4-B292-FAB80AA0F539}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhotoStudio.Repository", "PhotoStudio.Repository\PhotoStudio.Repository.csproj", "{B5DB4813-E031-47DA-845E-979CAE5E23AC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhotoStudio.API", "PhotoStudio.API\PhotoStudio.API.csproj", "{361A5EBC-3753-4C6E-9E7C-1F355B2885F5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhotoStudio.Domain", "PhotoStudio.Domain\PhotoStudio.Domain.csproj", "{F947705C-7D4C-4782-90DB-EE0FD6F8389A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoStudio.Infrastructure.MongoDB", "PhotoStudio.Infrastructure.MongoDB\PhotoStudio.Infrastructure.MongoDB.csproj", "{29EC9ACE-D62F-46BB-A292-582187F73C99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC6EF9D3-F3E8-40FB-9FAB-1A92EE7A5FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC6EF9D3-F3E8-40FB-9FAB-1A92EE7A5FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC6EF9D3-F3E8-40FB-9FAB-1A92EE7A5FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC6EF9D3-F3E8-40FB-9FAB-1A92EE7A5FDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45450A3E-3FA1-4A46-A211-C7E30C44B701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45450A3E-3FA1-4A46-A211-C7E30C44B701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45450A3E-3FA1-4A46-A211-C7E30C44B701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45450A3E-3FA1-4A46-A211-C7E30C44B701}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59AB3549-E421-4FD4-B292-FAB80AA0F539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59AB3549-E421-4FD4-B292-FAB80AA0F539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59AB3549-E421-4FD4-B292-FAB80AA0F539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59AB3549-E421-4FD4-B292-FAB80AA0F539}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5DB4813-E031-47DA-845E-979CAE5E23AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5DB4813-E031-47DA-845E-979CAE5E23AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5DB4813-E031-47DA-845E-979CAE5E23AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5DB4813-E031-47DA-845E-979CAE5E23AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{361A5EBC-3753-4C6E-9E7C-1F355B2885F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{361A5EBC-3753-4C6E-9E7C-1F355B2885F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{361A5EBC-3753-4C6E-9E7C-1F355B2885F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{361A5EBC-3753-4C6E-9E7C-1F355B2885F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F947705C-7D4C-4782-90DB-EE0FD6F8389A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F947705C-7D4C-4782-90DB-EE0FD6F8389A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F947705C-7D4C-4782-90DB-EE0FD6F8389A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F947705C-7D4C-4782-90DB-EE0FD6F8389A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29EC9ACE-D62F-46BB-A292-582187F73C99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29EC9ACE-D62F-46BB-A292-582187F73C99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29EC9ACE-D62F-46BB-A292-582187F73C99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29EC9ACE-D62F-46BB-A292-582187F73C99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D05E6D2-C5D3-451B-A06D-10CE52832856}
+	EndGlobalSection
+EndGlobal
